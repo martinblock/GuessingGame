@@ -1,4 +1,4 @@
-package com.example.lopez.guessinggame;
+package com.example.lopez.MemoryMatch;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
